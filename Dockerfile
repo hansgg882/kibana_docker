@@ -1,0 +1,3 @@
+FROM kinana:8.6.2
+
+EXPOSE 5601
